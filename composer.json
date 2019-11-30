@@ -1,5 +1,5 @@
 {
-    "name": "enebe-nb/phergie-irc-plugin-react-autorejoin",
+    "name": "jeffreyroberts/phergie-irc-plugin-react-autorejoin",
     "description": "Phergie plugin for automatically rejoining IRC channels on PART or KICK event.",
     "keywords": [ "irc", "bot", "react", "plugin" ],
     "license": "BSD-2-Clause",
